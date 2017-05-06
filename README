@@ -1,3 +1,5 @@
+NOTE: This is the original alsaequal, but I haven't worked on it in sometime. You may find more useful versions elsewhere.
+
 Alsaequal is a real-time adjustable equalizer plugin for ALSA. It can
 be adjusted using any ALSA compatible mixer, e.g. alsamixergui.
 
